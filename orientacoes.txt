@@ -1,0 +1,3 @@
+Criar uma pasta "C:\\Take\\";
+Colocar os arquivos encomenda.txt e trecho.txt, e copiar para a pasta criada;
+Ao executar, será criado um arquivo denominado rota.txt, nele estão os resutados.
