@@ -1,3 +1,4 @@
 Criar uma pasta "C:\\Take\\";
 Colocar os arquivos encomenda.txt e trecho.txt, e copiar para a pasta criada;
-Ao executar, ser· criado um arquivo denominado rota.txt, nele est„o os resutados.
+Usar o Projeto Completo.zip para rodar o projeto no IntelliJ;
+Ao executar, ser√° criado um arquivo denominado rota.txt, nele est√£o os resutados.
